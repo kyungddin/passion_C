@@ -11,6 +11,7 @@
 double pointer 함수 예제
 
     #include <stdio.h>
+    
     void SwapIntPtr(int **dp1, int **dp2)
     {
       int *temp = *dp1;
